@@ -12,7 +12,7 @@ Artificial Intelligence is often divided into two essential phases: AI Training 
 
 |   | Topic | Time | Presenter | Company |
 |------|------|:----:|:----:|:----:|
-| 0 | Host  | 10 |  SONG Jian | China Mobile |
+| 0 | Host  | 10 |  SONG Jian  & Arashmid Akhavain | co-chair |
 | 1 | The Demand and Considerations for Distributed Inference in the Healthcare Industry | 15 | HUANG Weihong | Xiangya Hospital |
 | 2 | Semantic Inference Routing Protocol (SIRP) | 15 | Nabeel Cocker | Redhat |
 | 3 | Considerations of network/system for AI services | 15 | Yong-Geun Hong | Daejeon University |
