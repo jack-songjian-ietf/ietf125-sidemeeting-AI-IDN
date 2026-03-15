@@ -12,14 +12,13 @@ Artificial Intelligence is often divided into two essential phases: AI Training 
 
 |   | Topic | Time | Presenter | Company |
 |------|------|:----:|:----:|:----:|
-| 0 | Administration & Review  | 5 |  TBD | Company |
-| 1 | topics1 | 15 | Speaker1 | Company1 |
-| 2 | topics2 | 15 | Speaker2 | Company2 |
-| 3 | topics3 | 15 | Speaker3 | Company3 |
-| 4 | topics4 | 15 | Speaker4 | Company4 |
-| 5 | topics5 | 15 | Speaker5 | Company5 |
-| 6 | topics6 | 15 | Speaker6 | Company6 |
-| 7 | Discussion | 15 | All |   |
+| 0 | Host  | 10 |  SONG Jian | China Mobile |
+| 1 | The Demand and Considerations for Distributed Inference in the Healthcare Industry | 15 | HUANG Weihong | Xiangya Hospital |
+| 2 | Semantic Inference Routing Protocol (SIRP) | 15 | Nabeel Cocker | Redhat |
+| 3 | Considerations of network/system for AI services | 15 | Yong-Geun Hong | Daejeon University |
+| 4 | AI Network: An overlay network for consumers and providers in AI Ecosystem | 15 | Arashmid Akhavain | Huawei Canada |
+| 5 | Scalable, Secure, Cost-Effective: An End-to-End Edge-Cloud Distributed Solution for Enterprise AI Inference | 15 | Wenjie Chu | Huawei |
+| 6 | Open Discussion & Summary | 10 | All |  |
 
 
 
