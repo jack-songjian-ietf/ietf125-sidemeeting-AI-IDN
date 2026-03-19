@@ -12,14 +12,15 @@ Artificial Intelligence is often divided into two essential phases: AI Training 
 
 |   | Topic | Time | Presenter | Company |
 |------|------|:----:|:----:|:----:|
-| 0 | Host  | 10 |  SONG Jian  & Arashmid Akhavain | co-chair |
+| 0 | Host  | 10 |  SONG Jian  & Arashmid Akhavain | China Mobile & Huawei Canada  |
 | 1 | The Demand and Considerations for Distributed Inference in the Healthcare Industry | 15 | HUANG Weihong | Xiangya Hospital |
-| 2 | Semantic Inference Routing Protocol (SIRP) | 15 | Nabeel Cocker | Redhat |
+| 2 | Semantic Inference Routing Protocol (SIRP) | 15 | Huamin Chen | Redhat |
 | 3 | Considerations of network/system for AI services | 15 | Yong-Geun Hong | Daejeon University |
 | 4 | AI Network: An overlay network for consumers and providers in AI Ecosystem | 15 | Arashmid Akhavain | Huawei Canada |
 | 5 | Scalable, Secure, Cost-Effective: An End-to-End Edge-Cloud Distributed Solution for Enterprise AI Inference | 15 | Wenjie Chu | Huawei |
 | 6 | Open Discussion & Summary | 10 | All |  |
 
 
-
+**Summary**
+The side meeting shared a wide range of perspectives on new usiness scenarios, emerging architectures, and technical requirements for AI inference. It is becoming clear that there is a strong need to continue these conversations around AI inference related topics. Since currently we do not have a dedicated mailing list for AI inference yet, we encourage everyone to continue the discussion using the issue feature on this GitHub repository. Please feel free to open new issues or join existing ones to share your thoughts, ask questions, and collaborate. Looking forward to seeing the conversation evolve there!
 
