@@ -21,5 +21,6 @@ Artificial Intelligence is often divided into two essential phases: AI Training 
 | 6 | Open Discussion & Summary | 10 | All |  |
 
 **Summary**:  
-The side meeting shared a wide range of perspectives on new usiness scenarios, emerging architectures, and technical requirements for AI inference. It is becoming clear that there is a strong need to continue these conversations around AI inference related topics. Since currently we do not have a dedicated mailing list for AI inference yet, we encourage everyone to continue the discussion using the issue feature on this GitHub repository. Please feel free to open new issues or join existing ones to share your thoughts, ask questions, and collaborate. Looking forward to seeing the conversation evolve there!
+The side meeting shared a wide range of perspectives on new usiness scenarios, emerging architectures, and technical requirements for AI inference. It is becoming clear that there is a strong need to continue these conversations around AI inference related topics.   
 
+Please feel free to discuss, or email me.
